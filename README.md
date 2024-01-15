@@ -20,7 +20,7 @@
 
 ## More about me?
 
-I'm interested in ...
+*I'm interested in ...*
 
 👾 Cool Technology
 
