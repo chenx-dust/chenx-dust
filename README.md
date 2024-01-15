@@ -18,22 +18,6 @@
 
 ✈️ Telegram: [@cast_dust](https://t.me/cast_dust)
 
-## More about me?
-
-*I'm interested in ...*
-
-👾 Cool Technology
-
-📶 Network and Hosting
-
-📺 Kawaii Anime
-
-🎵 Old-fasion Music
-
-🌏 World Concerns
-
-🗯️ Great Thoughts
-
 ## What about my skills?
 
 <table>
