@@ -10,11 +10,29 @@
 
 ## How to reach me?
 
-😃 Personal Email: chenx_dust@outlook.com
+😃 Personal Email: chenx_dust@outlook.com (Recommended)
 
 🧑🏻‍💻 Formal Email: chen.xijun@outlook.com
 
 🌐 Website Email: me@chenx.online i@cx0.cc
+
+✈️ Telegram: [@cast_dust](https://t.me/cast_dust)
+
+## More about me?
+
+I'm interested in ...
+
+👾 Cool Technology
+
+📶 Network and Hosting
+
+📺 Kawaii Anime
+
+🎵 Old-fasion Music
+
+🌏 World Concerns
+
+🗯️ Great Thoughts
 
 ## What about my skills?
 
