@@ -8,16 +8,6 @@
 
 🤖 Majoring in Automation.
 
-## How to reach me?
-
-😃 Personal Email: chenx_dust@outlook.com (Recommended)
-
-🧑🏻‍💻 Formal Email: chen.xijun@outlook.com
-
-🌐 Website Email: me@chenx.online i@cx0.cc
-
-✈️ Telegram: [@cast_dust](https://t.me/cast_dust)
-
 ## What about my skills?
 
 <table>
