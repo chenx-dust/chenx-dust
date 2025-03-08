@@ -10,7 +10,7 @@
 
 🌍 Devoted in open source community.
 
-⚙️ More academic-related projects is in account [@PageChen04](https://github.com/PageChen04) .
+⚙️ More academic-related projects are in account [@PageChen04](https://github.com/PageChen04) .
 
 <div align="center">
 <img src="omagari_hare.png" width="100px">
