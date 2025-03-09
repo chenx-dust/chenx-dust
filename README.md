@@ -12,6 +12,8 @@
 
 ⚙️ More academic-related projects are in account [@PageChen04](https://github.com/PageChen04) .
 
+💬 Communiacte with me in 🇨🇳 Chinese or 🇬🇧 English.
+
 <div align="center">
-<img src="omagari_hare.png" width="100px">
+<img src="omagari_hare.png" title="小鈎ハレ pid: 119758444" width="100px">
 </div>
