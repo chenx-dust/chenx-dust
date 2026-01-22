@@ -12,8 +12,6 @@
 
 💬 Communiacte with me in 🇨🇳 Chinese or 🇬🇧 English. 我可以用 🇨🇳 中文和 🇬🇧 英文交流。
 
-⚙️ More academic-related projects are in account [@PageChen04](https://github.com/PageChen04) . 更多学术相关的项目在账号 [@PageChen04](https://github.com/PageChen04) 名下。
-
 <div align="center">
 Hare kawaii desu! 👉 <img src="omagari_hare.png" title="小鈎ハレ pid: 119758444" width="100px"> 👈 可爱的晴酱！
 </div>
