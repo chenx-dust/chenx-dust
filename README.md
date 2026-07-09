@@ -1,8 +1,8 @@
 ## Hi there 👋, I am ... 你好 👋，我是 ……
 
-📖 An undergraduate, 一名本科生，
+📖 An postgraduate, 一名研究生，
 
-🤖 Majoring in Automation, 专业是自动化，
+🤖 Majoring in Control Engineering, 专业是控制工程，
 
 🎮 A game lover and enjoyer, 爱好游戏、享受游戏，
 
