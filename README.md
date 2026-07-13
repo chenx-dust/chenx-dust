@@ -1,12 +1,10 @@
 ## Hi there 👋, I am ... 你好 👋，我是 ……
 
-📖 An postgraduate, 一名研究生，
+📖 A postgraduate, 一名研究生，
 
-🎮 A game lover and enjoyer, 爱好游戏、享受游戏，
+💻 A tech lover and enjoyer, 爱好技术、享受技术，
 
 🐛 A bug fixer and creator, 经常修 Bug 也经常写 Bug ，
-
-💻 Interested in networking, 热衷于网络技术，
 
 🌍 Devoted in open source community. 致力于开源社区。
 
